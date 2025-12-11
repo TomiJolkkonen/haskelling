@@ -1,15 +1,13 @@
-name: haskell-data-project
+name: haskell-medallion
 version: "0.1.0"
-build-type: Simple
-
 dependencies:
-  - base >= 4.7 && < 5
+  - base
   - cassava
   - vector
-  - containers
   - text
+  - containers
 
 executables:
-  haskell-data-project:
-    source-dirs: src
+  haskell-medallion:
     main: Main.hs
+    source-dirs: src
