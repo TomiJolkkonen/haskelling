@@ -1,3 +1,3 @@
 # Haskell Project
 
-A simple Haskell program that prints a greeting.
+Small data project with Haskell as a practice
